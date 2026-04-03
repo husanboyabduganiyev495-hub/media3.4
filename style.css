@@ -483,12 +483,4 @@
         width: 100%;
     }
 
-    .footer-grid {
-        grid-template-columns: 1fr;
-        text-align: center;
-    }
-
-    .social-icons {
-        justify-items: center;
-    }
-}
+    
